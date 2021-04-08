@@ -1,0 +1,49 @@
+body{
+    background-color: blue;
+    color: aquamarine;
+}
+nav{
+    background-color: darkred;
+    color: white;
+    height: 40px;
+}
+main{
+    background-color: turquoise;
+    color: tomato;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+}
+footer{
+    background-color: white;
+    border-style: inset;
+    border-color: black;
+    margin: 10px;
+    color: black;
+}
+section{
+    background-color: cornflowerblue;
+    color:cornsilk;
+}
+aside{
+    background-color: darkgreen;
+    color: white;
+    margin: 10px;
+}
+.cabecera{
+    background-color: blueviolet;
+    color:cornsilk;
+    margin: 10px;
+    margin-top: 20px;
+    border-style: double;
+    border-color: darkgray;
+    padding: 10px;
+    padding-left: 40px;
+}
+.form{
+    background-color:darkorange;
+    color: darkred;
+}
+.label{
+    background-color: darkgray;
+    color:darkgreen;
+}
