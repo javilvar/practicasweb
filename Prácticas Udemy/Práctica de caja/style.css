@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(228, 226, 226);
+}
+div{
+    background-color: white;
+    color: black;
+    border-style: outset;
+    border-width: 1px;
+    border-radius: 4px;
+}   
+header{
+    padding: 15px;
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: rgb(228, 226, 226);
+}
+main{   
+    padding: 15px;
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: rgb(228, 226, 226);
+}
+footer{
+    padding: 15px;
+}
+#Aceptar{
+    background-color:rgb(43, 109, 250);
+    color: whitesmoke;
+    padding: 5px;
+    border-style: outset;
+    border-width: 1px;
+    border-color:rgb(228, 226, 226)
+}
+#Cancelar{
+    background-color: gray;
+    color: whitesmoke;
+    padding: 5px;
+    border-style: outset;
+    border-width: 1px;
+    border-color:rgb(228, 226, 226)
+}
+
